@@ -1,0 +1,11 @@
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\bin\Release\net8.0\Play.Catalog.Contracts.deps.json
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\bin\Release\net8.0\Play.Catalog.Contracts.dll
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\bin\Release\net8.0\Play.Catalog.Contracts.pdb
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.AssemblyInfo.cs
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.dll
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\refint\Play.Catalog.Contracts.dll
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.pdb
+D:\Programming\MicroServices Play.catag\src\Play.Catalog.Service\src\Play.Catalog.Contracts\obj\Release\net8.0\ref\Play.Catalog.Contracts.dll
