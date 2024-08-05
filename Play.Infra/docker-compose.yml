@@ -1,0 +1,28 @@
+#docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db mongo 
+
+version: "2.26.1"
+
+services:
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodbdata:/data/db
+
+  #we define volume for rabbitmq so if the rabbitmq goes down we still have the messages
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - 5672:5672
+      - 15672:15672
+    volumes:
+      - rabbitmqdata:/var/lib/rabbitmq
+    hostname: rabbitmq
+    #we should always define a hostname
+  
+volumes:
+  mongodbdata:
+  rabbitmqdata:
